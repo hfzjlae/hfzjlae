@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @hfzjlae
-- 👀 I’m interested in literally everything that's intriguing.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in literally everything that's intriguing especially on cybersecurity :3
+- 🌱 I’m currently learning React Native
 - 📫 You can reach me through my emails: nur_22007936@utp.edu.my // najlahifza@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I prefer sleep over eat 
 
 <!---
